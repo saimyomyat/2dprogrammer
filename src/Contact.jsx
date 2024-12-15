@@ -32,9 +32,9 @@ const Contact = () => {
     <div className=' rounded-xl h-[110px] mb-5 md:w-[400px] items-center mx-auto bg-gradient-to-b from-yellow-900 to-black'>
 
 <div className=' w-full mt-2 mx-auto'> 
-  <div className=' text-yellow-600 text-center  mx-2 w-full'>
+  <div className=' text-2xl text-yellow-600 text-center  mx-2 w-full'>
     
-  2D ကို 90Z နဲ့ အလျော်စားမှန်မှန်ကန်ကန် <br />  ကစားချင်ရင် လင့်ကိုနိှပ်ပါ
+  2D ကို 90Z နဲ့ အလျော်စားမှန်မှန်ကန်ကန် <br />  ကစားချင်ရင် 
 
   </div>
   <div className='flex gap-3 justify-center items-center align-middle mt-2'>
