@@ -4,7 +4,7 @@ const GuessNum = () => {
 
     //you have to change data here
 
-  const [sevenDaysWinner, setSevenDaysWinner] = useState([42, 96,74, 67, 23, 89, 55,29]);
+  const [sevenDaysWinner, setSevenDaysWinner] = useState([42, 96,74, 67, 23, 89, 55,29,91]);
 
   const allNumbers = Array.from({ length: 100 }, (_, i) => i).map(num => num.toString().padStart(2, '0'));
 
