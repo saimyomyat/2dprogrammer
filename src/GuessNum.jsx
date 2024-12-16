@@ -58,7 +58,7 @@ const filterByStartingDigit = (numbers, htake) => {
   };
 
    // Define the htake array (numbers that should be included if the number starts with them)
-   const htake = [1, 0, 8,4,];
+   const htake = [1,3, 8, 4,];
 
 //oooooooooooooooooooooooooooooooooooooooooooooooooo
 
